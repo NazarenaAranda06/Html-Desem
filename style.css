@@ -1,0 +1,6 @@
+.contenedor {
+    display: flex; /* Los elementos de la caja van a ser flexibles, le puedo dar la ubicacion y posicionamiento que yo quiera */
+    flex-direction: row; /* Esto es para que los contenidos de la caja esten como fila */
+    width: 100%; /* Definimos el ancho, si queremos que ocupe todo el ancho de la pagina le ponemos 100*/
+    background-color: brown; /* Con esta opcion lo que podemos hacer es pintar el fondo de lo seleccionado */
+}
